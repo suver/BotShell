@@ -1,0 +1,20 @@
+{
+  "name": "suver/BotShell",
+  "description": "You Bot Shell",
+  "type": "botshell framework",
+  "keywords": ["botshell","framework","farpse"],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Suver",
+      "email": "suver@farpse.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "BotShell\\": ""
+    }
+  }
+}
