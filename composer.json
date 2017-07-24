@@ -1,7 +1,7 @@
 {
   "name": "suver/bot-shell",
   "description": "You Bot Shell",
-  "type": "botshell framework",
+  "type": "botshell",
   "keywords": ["botshell","framework","farpse"],
   "license": "Apache-2.0",
   "authors": [
